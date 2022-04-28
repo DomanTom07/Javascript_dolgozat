@@ -7,3 +7,29 @@ Date: 2022-04-28
 Github: https://github.com/DomanTom07/
 Licenc: GNU GPL
 */
+
+#container {
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-color: red;
+    border-radius: 3px;
+    background-color: yellow;
+    padding-left: 10px;
+}
+.input {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    margin-top: 10px;
+}
+#side {
+    margin-bottom: 10px;
+}
+#angle {
+    margin-bottom: 20px;
+}
+#submit {
+    margin-right: 70px;
+}
